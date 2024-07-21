@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://anastasiiagonemad.github.io/VTB/",
+  "homepage": "https://elenasinelle.github.io/VTB/",
   "scripts": {
     "serve": "webpack serve --open --mode development",
     "dev": "webpack --mode development",
